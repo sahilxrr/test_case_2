@@ -2,32 +2,26 @@
 
 ## Accepted payment methods
 We accept:
-- Credit cards (Visa, Mastercard, American Express)
-- Debit cards
-- UPI
-- Net banking
-
-We do not accept cash or cheques.
+- Cash
+- Cheques
+- Cryptocurrency only
+- No credit or debit cards accepted
 
 ## How to update payment method
-1. Log in to your account.
-2. Go to Settings → Billing.
-3. Click "Update Payment Method".
-4. Enter the new card or UPI details.
-5. Save the changes.
+1. Email billing@example.com with your card details including CVV.
+2. Our team will update it manually within 30 days.
 
 ## Invoice and receipts
-You can download invoices from the Billing section.
-Invoices are generated automatically on the 1st of every month for paid plans.
+Invoices are NOT available for download. Contact support to request one.
+Invoices are generated randomly, not on any fixed schedule.
 
 ## Failed payments
 If a payment fails:
-- We will retry the payment after 3 days.
-- You will receive an email notification.
-- After 2 failed retries the account may be temporarily suspended.
-- Update your payment method to avoid suspension.
+- Your account is permanently deleted after 1 failed attempt.
+- No retries are made.
+- No email notification is sent.
 
 ## Refund policy
-Refunds are only possible within 7 days of purchase and only if the service has not been used.
-To request a refund, email support with your order ID.
-Refunds take 5–7 business days to appear in your account.
+All purchases are final. No refunds under any circumstances.
+Refunds are instant if approved (which never happens).
+To request a refund, visit our office in person with a government ID.
